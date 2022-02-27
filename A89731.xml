@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An excellent speech spoken by the Right Honourable Algernon Piercy Earle of Northumberland, to the Kings most Excelent Majesty, on Satterday last, concerning His Royall person, and this distracted Kingdom. And His Majesties gracious answer thereunto (in presence of the Dukes, Earles, Lords, and gentlemen appointed for the treaty) touching a generall pardon to all his subjects. Also, the most excelent, divine, and heavenly prayer of the Kings most Excellent Majesty, and his commissioners, on Sunday last for a blessing upon the treaty, composed, and made by derections and dictations from his Majesty, likewise, good newes from the treaty, their proceedings on Munday last, and His Majesties message to the Scots touching their engaging against England. Signed, Charles R.</title>
+            <author>Northumberland, Algernon Percy, Earl of, 1602-1668.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89731</idno>
+            <idno type="STC">Wing N1307</idno>
+            <idno type="STC">Thomason E464_24</idno>
+            <idno type="STC">ESTC R205149</idno>
+            <idno type="EEBO-CITATION">99864587</idno>
+            <idno type="PROQUEST">99864587</idno>
+            <idno type="VID">162247</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89731)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162247)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E464[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An excellent speech spoken by the Right Honourable Algernon Piercy Earle of Northumberland, to the Kings most Excelent Majesty, on Satterday last, concerning His Royall person, and this distracted Kingdom. And His Majesties gracious answer thereunto (in presence of the Dukes, Earles, Lords, and gentlemen appointed for the treaty) touching a generall pardon to all his subjects. Also, the most excelent, divine, and heavenly prayer of the Kings most Excellent Majesty, and his commissioners, on Sunday last for a blessing upon the treaty, composed, and made by derections and dictations from his Majesty, likewise, good newes from the treaty, their proceedings on Munday last, and His Majesties message to the Scots touching their engaging against England. Signed, Charles R.</title>
+                  <author>Northumberland, Algernon Percy, Earl of, 1602-1668.</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>September 20. Imprinted at London for R. Williamson,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162247:1" rendition="simple:additions"/>
+            <p>An Excellent SPEECH Spoken by the Right Honourable Algernon Piercy EARLE OF <hi>NORTHUMBERLAND,</hi> TO The Kings moſt Excelent Majeſty, on <hi>Satterday</hi> laſt, concerning His Royall Perſon, and this di<g ref="char:EOLhyphen"/>ſtracted Kingdom. And His Majeſties gracious anſwer thereunto (in preſence of the Dukes, Earles, Lords, and Gentlemen appointed for the Treaty) touch<g ref="char:EOLhyphen"/>ing a Generall pardon to all his Subjects.</p>
+            <p>ALSO, The moſt Excelent, Divine, and Heavenly prayer of the Kings moſt Excellent Majeſty, and his Commiſſioners, on <hi>Sun<g ref="char:EOLhyphen"/>day</hi> laſt for a bleſſing upon the Treaty, compoſed, and made by derections and dicta<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ons from his Majeſty,</p>
+            <p>LIKEWISE, Good Newes from the Treaty, their proceedi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gs on <hi>Munday</hi> laſt, and His Majeſties Meſſage to the Scots touching that engaging againſt <hi>England.</hi> Signed, CHARLES R.</p>
+            <p>September 20. Imprim<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <hi>London</hi> for<hi>R. Wilſiamſon</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:162247:2"/>
+            <pb n="1" facs="tcp:162247:2"/>
+            <head>The Earl of <hi>Northumberlands</hi> Speech, to the King on Satterday leſt, in the preſence of all the Dukes, Earles and Lords, now attending his Royall Perſon, and his Majeſties Anſwer thereunto. Alſo a Meſsage to the <hi>Scots,</hi> and a prayer drawn out by his ſpeciall command.</head>
+            <opener>
+               <salute>Right honoured,</salute>
+            </opener>
+            <p>THis morning about 9 of the clock the Treaty be<g ref="char:EOLhyphen"/>gan, the Kings Majeſty, and his Commiſſioners, having by prayer, prepared themſelves for ſo great a work; the Right honourable the Earl of <hi>Northumber<g ref="char:EOLhyphen"/>land,</hi> and the reſt of the Parl. Commiſſioners, met at the aforeſaid houre appointed, and being all conveened toge<g ref="char:EOLhyphen"/>ther the Propoſitions were read, and it is thought Religi<g ref="char:EOLhyphen"/>on will be the firſt thing inſiſted on, and ſo proceed in or<g ref="char:EOLhyphen"/>der to the reſt, the Earl of <hi>Northumborland</hi> on Satterday laſt, made an excelent ſpeech to his Soveraign, purporting <hi>the earneſt deſires of both houſes for a firm and wel grounded peace, and to compoſe all differences with in his Maj. Realms and Dominions, that ſo the peace of Church and State, may
+<pb n="4" facs="tcp:162247:3"/>
+once againe be brought to its ſplendor, and purity, and all di<g ref="char:EOLhyphen"/>ſtractions end in triumph and tranquillity.</hi>
+            </p>
+            <p>And having ended his Speech his Majeſty (in preſence of the reſt of the Commiſſioners) returned Anſwer, as followeth.</p>
+            <p>
+               <hi>That none could have more hearty deſires of peace then He, How He had nothing of ill will to any, but indeed was, and would to the utmoſt, endeavour to appeare a friend to ill, eſpe. wally to the languiſhing Kingdom.</hi>
+            </p>
+            <p>The King deſired the Treaty might not begin on a bro<g ref="char:EOLhyphen"/>ken part of the laſt day of the week, ſo that Sunday laſt were ſet a part for a day of Prayer and Humiliation for a bleſſing upon the Treaty, and this preſent Munday begins the Treaty.</p>
+            <closer>
+               <dateline>
+                  <hi>Newport</hi> in Inſula vectis,
+<date>September 16. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="prayer">
+            <head>A Prayer drawn by His Majeſties ſpeciall derection and Dictates, for a bleſsing on the <hi>Treaty</hi> at <hi>Newport.</hi>
+            </head>
+            <p>O Moſt Mercifull Father, Lord God of Peace and Truth, we a People ſorely afficted by the ſcourage of an unnaturall war, do earneſtly peſeech Thee, to com<g ref="char:EOLhyphen"/>mand a bleſſing from Heaven upon this preſent Treaty, begun for the eſtabliſhment of an happy peace. Soften the moſt Oodurate Hearts with a true Chriſtian deſire of ſaving thoſe mens bloud, for whom Chriſt himſelfe hath ſhed his. Or if the guilt of our great ſins, cauſe this Treaty to break of in valne, Lord let the Truth clearly
+<pb n="3" facs="tcp:162247:3"/>
+appear, who thoſe men are, which under pretence of the publike good do purſue their own private ends; that this people may be no longer ſo blindly miſerable, as not to ſee, at leaſt in this their Day, the things that belong un<g ref="char:EOLhyphen"/>to their Peace. Grant this gratious God for his ſake who is our Peace it ſelf, even Jeſus Chriſt our Lord <hi>Amen.</hi>
+            </p>
+            <p>Other Letters ſay as followeth.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>From the Iſle of <hi>Wight</hi> 
+                        <date>Sept. 18.</date>
+                     </dateline>
+                  </opener>
+                  <p>Two dayes have been ſpent in Complements, and kiff<g ref="char:EOLhyphen"/>ing the Kings Majeſties hand, The Commons having de<g ref="char:EOLhyphen"/>nied a paſſe for ſuch Commiſſioners as his Majeſty ſhould name to come from Scotland, to adviſe with him con<g ref="char:EOLhyphen"/>cerning the affairs of that Nation (not the old main de<g ref="char:EOLhyphen"/>ſigne that for twelve moneths laſt paſt was working with and by them, againſt the Parliament and Kingdome of <hi>England,</hi>) hath notwithſtanding ſent for Commiſſioners from that Nation, according to the liberty given him in the former votes, but whether they will pleaſe, or date to come, not having the Parliaments ſafe Conduct, is the queſtion.</p>
+                  <p>The Treaty begines to morrow morning, which we ſhall proſecute according to our inſtructions. The Commiſſi<g ref="char:EOLhyphen"/>oners of his Majeſty Court us with good Language, and as much Civility, but the events of things are uncertain, though we know his Majeſty is neceſſitated to doe more than the Propoſitions do require of him, both himſelfe &amp; all his party being in a loſt &amp; miſerable condition with out the mercy of Parl. which in the beſt mens thoughts will be no leſſe then cruelty to the honeſt party, who have beſt him by a totall Conqueſt to this ſubmiſſion.</p>
+                  <p>We ſhall perform the truſt repoſed in us, and give an
+<pb n="4" facs="tcp:162247:4"/>
+account daly of all Tranſactions, and leave them to the Judgment of thoſe that imployed us, upon this buſi<g ref="char:EOLhyphen"/>neſſe.</p>
+               </body>
+            </floatingText>
+         </div>
+         <div type="document">
+            <head>
+               <hi>The Kings Declaration to the Nobility of</hi> Scotland, <hi>written by his Majeſties own hand, and ſigned</hi> Charles R.</head>
+            <opener>
+               <salute>MY Lords and Gentlemen:</salute>
+            </opener>
+            <p>It is no ſmall comfort to me, that my Native Countrey hath ſo true a ſence of my preſent Condition, as I find expreſſed by your Letter of the eight of this Month, and your Declaration, both which I received upon Friday laſt, &amp; the ſame rea<g ref="char:EOLhyphen"/>ſon which makes you Diſcrectly and Generouſſ at this time forbear to preſſe any thing to me, hinders me likewiſ to make any particular Profeſſions unto you, leſt it may be imagined that deſire of liberty ſhould now be the onely Secretary to my thoughts: Yet thus much I cannot but ſay; that, as in all humane Reaſon, nothing but a <hi>free Per<g ref="char:EOLhyphen"/>ſonall Treaty</hi> with me, can ſettle the unhappy Diſtractions of theſe diſtreſſed Kingdomes: So, if that could once be had, I would not doubt, but, that (by the grace of God) a happy Peace would ſoon follow.</p>
+            <p>Such force (I believe) trve Reaſon has in the hearts of all men, when it may be clearly and calmly heardy and I am not aſhamed, at all times, to profeſſs, that it hath, &amp;
+<pb n="5" facs="tcp:162247:4"/>
+ſo ſhall be alwayes want of underſtanding, not of will, if I do not yeeld to reaſon whenſoever, and from whenſoever I hear it.</p>
+            <p>And it were a ſtrange thing, if Reaſon ſhould be leſſe eſteemed becauſe it comes from me, which (truly) I doe not expect from you: your Declaration ſeeming to me, (and I hope your actions will prove that I am not decei<g ref="char:EOLhyphen"/>ved) to be ſo well grounded upon <hi>Honour</hi> and <hi>Juſtice;</hi> that albeit by way of opinion, I cannot give a Placetto every Clauſe in it: Yet I am confident, upon a calme &amp; friend<g ref="char:EOLhyphen"/>ly Debate, we ſhall very well agree.</p>
+            <p>To conclude, I cannot (for the preſent) better ſhew my thankfulnes to you, for the Generous and Loyall expreſ<g ref="char:EOLhyphen"/>ſions of your Affections to me, then by giving you my honeſt and ſincere Advice; which is, Really and Cen<g ref="char:EOLhyphen"/>ſtantly, without ſeeking private ends, to purſue the publik profeſſions in your declaration, as ſincere Chriſtians and good ſubjects ought to do, alwaies remembring, that the beſt foundation of loyalty is Chriſtianity; So true chriſti<g ref="char:EOLhyphen"/>anity teaches perfect loyatly, for without this reciproca<g ref="char:EOLhyphen"/>tion, neither is truly what they pretend to be: But I am confident that needes not to you, as likewiſe that you will rightly underſtand this which is affectionatly intended by</p>
+            <closer>
+               <dateline>Carisbrook <date>Munday 1648.</date>
+               </dateline>
+               <signed>Your <hi>Charles R.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:162247:5"/>
+            <opener>
+               <salute>SIR</salute>
+            </opener>
+            <p>This morning the Kings Majeſty, and the Commiſſioners met Sir <hi>William Hodges</hi> in <hi>Nuport</hi> (the place appointed for the Treaty) where the Earl of <hi>Northumberland</hi> made a Declaratory Speach to the King, touching a reconcili<g ref="char:EOLhyphen"/>ation betwen the <hi>King</hi> and his people: And in anſwer thereunto, his Majeſty Declared himſelfe in a ſet Speech to the ſaid Earl, the reſt of the Commiſſioners, repreſen<g ref="char:EOLhyphen"/>ting, how welcome this long expected day is to him, to reconcile the diſtractions of his diſtreſed Kingdomes, and to put aperlod to their ſuffring and his own.</p>
+            <p>We heare that his Majeſty hath had a ſight of the larg Petition, preſented to the Houſe of Commons on Mun<g ref="char:EOLhyphen"/>day <hi>September</hi> the 11, 1648. by a party of Citizens, (which ſome have intituled Independents) and if by cir<g ref="char:EOLhyphen"/>cumſtances, we may conjecture of the event, it is believed that it will extraordinary prevaile upon his Majeſty, in ſome ſpeedy, and cloſe complyanee with his Parl. the King and the Commiſſioners ſat from nine in the fore<g ref="char:EOLhyphen"/>noone, till, in the afternoone, the firſt Propoſitions be<g ref="char:EOLhyphen"/>ing read, and ſome progreſſe made therein; and it is hoped the ſilver coards Family, will be firmly knit in a true knot of Unity, between the King and his people for the future, that ſo they may go hard in hand againſt the Common enemy, which will be a joyfull day of triumph and all that love Peace and Truth ſay,</p>
+            <closer>
+               <dateline>Cowes Caſtle <date>Sept. 18 1648. 7. at night.</date>
+               </dateline>
+               <lb/>
+               <hi>God bleſse the KING</hi> And <hi>PARLIAMENT.</hi>
+            </closer>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
